@@ -6,7 +6,7 @@
 <manifest>
   <remote name="nanopb" fetch="https://github.com/nanopb"/>
   <remote name="opensbi" fetch="https://github.com/riscv"/>
-  <remote name="https://github.com/sel4" fetch="."/>
+  <remote name="seL4" fetch="https://github.com/sel4"/>
   <remote name="sel4proj" fetch="https://github.com/sel4proj"/>
 
   <!-- custom repos -->
