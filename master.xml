@@ -8,8 +8,6 @@
 
 <!-- include all the common repositories, we just want to define the kernel -->
 <include name="common.xml"/>
-
-<remote name="hanbings" fetch="https://github.com/hanbings"/>
-<project name="hanbings/rvspoc-P2421-seL4.git" path="kernel"/>
+<project name="rvspoc-P2421-seL4.git" remote="hanbings" path="kernel"/>
 
 </manifest>
